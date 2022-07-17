@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zpmughal
-- 👀 I’m interested in Assembly Language
-- 🌱 I’m currently learning Assembly Language
+- 👀 Currently on a path to become a Full-Stack Developer.
+Interested in Java, HTML, CSS, JavaScript, Assembly Language, etc.
 
 <!---
 zpmughal/zpmughal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
